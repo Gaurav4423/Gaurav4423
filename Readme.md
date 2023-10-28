@@ -1,5 +1,6 @@
 <h2>Hey! 👋</h2>
-[![Visitor](https://visitcount.itsvg.in/api?id=Gaurav4423&icon=0&color=0)](https://visitcount.itsvg.in) [![GitHub followers](https://img.shields.io/github/followers/Gaurav4423.svg?style=social&label=Follow)](https://github.com/Gaurav4423?tab=followers)
+[![Visitor]((https://visitcount.itsvg.in/api?id=Gaurav4423&icon=0&color=0))](https://github.com/laxmena) [![GitHub followers](https://img.shields.io/github/followers/laxmena.svg?style=social&label=Follow)](https://github.com/laxmena?tab=followers)
+
 ## 💫 About Me:
 🔭 I’m currently working on <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
